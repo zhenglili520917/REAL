@@ -1,3 +1,8 @@
+mixin ings(pic,textCh)
+    div(class="ings")
+        img(src="imgs/" + pic + ".jpg", alt="REAL")
+        P=textCh
+
 
 <!DOCTYPE html>
 html(lang="zh")
@@ -18,7 +23,7 @@ html(lang="zh")
                     a(href="#") 美味據點
             
         section(id="ing")
-            div(class="ings")
-                img(src="imgs/butter.jpg", alt="REAL BUTTER")
-                P KSDJFKJDSIFJOFDSKFJIRE
+            +ings("butter","sjlfkjeifj")
+            +ings("milk","sjlfkjeifj")
+            +ings("handmake","sjlfkjeifj")
 
