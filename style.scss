@@ -4,9 +4,13 @@
     font-family: 微軟正黑體;
 }
 
-#banner {
+.relogo {
+    display: block;
+    text-align: center;
+    width: 100%;
+
     
-}
+} 
 
 .link {
     float: right;
@@ -20,7 +24,15 @@
 }
 
 // 產品區塊
-
+.ing {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 50px;
+    padding: 30px;
+    width: 500px;
+    margin: 0 auto;
+    
+}
 
 
 
