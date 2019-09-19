@@ -12,8 +12,9 @@
 }
 
 .link {
-  float: right;
+  float: center;
   padding: 40px 0;
+  text-align: center;
 }
 
 .link a {
@@ -28,7 +29,7 @@
       grid-template-columns: auto auto;
   grid-gap: 50px;
   padding: 30px;
-  width: 500px;
+  width: 100%;
   margin: 0 auto;
 }
 /*# sourceMappingURL=style.css.map */
