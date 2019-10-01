@@ -1,3 +1,5 @@
+$color-main: #0f4876;
+
 * {
     margin: 0;
     padding: 0;
@@ -14,15 +16,18 @@
 
 .link {
     float: center;
-    padding: 40px 0;
+    padding: 20px 0;
     text-align: center;
+    
     
     a {
         text-decoration: none;
         padding: 5px 15px;
+        color: $color-main;
         
     }
 }
+
 
 // 產品區塊
 .ing {
@@ -37,4 +42,16 @@
 }
 
 
+
+// footer
+footer {
+    background-color: black;
+    color: #fff;
+    margin-top: 100px;
+}
+footer #copy {
+    padding-top: 50px;
+    font-size: 0.5em;
+    text-align: center;
+}
 
