@@ -42,7 +42,8 @@ $color-main: #0f4876;
 
 // footer
 footer {
-    background-color: black;
+    
+    background-color: rgb(218, 132, 132);
     color: #fff;
     margin-top: 100px;
 }
@@ -50,4 +51,12 @@ footer #copy {
     padding-top: 50px;
     font-size: 0.5em;
     text-align: center;
+}
+
+.bot {
+    text-decoration: none;
+    float: center;
+    padding: 20px 0;
+    text-align: center;
+    color: $color-main;  
 }
