@@ -30,15 +30,12 @@ $color-main: #0f4876;
 
 
 // 產品區塊
-.ing {
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 50px;
-    padding: 30px;
-    width: 100%;
-    margin: 0 auto;
-    
-    
+.row img {
+        width: 30%;        
+}
+.row h2 {
+        font-size: 1em;
+        padding: 5px 0 10px 0;
 }
 
 
@@ -54,4 +51,3 @@ footer #copy {
     font-size: 0.5em;
     text-align: center;
 }
-

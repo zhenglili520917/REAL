@@ -23,15 +23,13 @@
   color: #0f4876;
 }
 
-.ing {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: auto auto;
-      grid-template-columns: auto auto;
-  grid-gap: 50px;
-  padding: 30px;
-  width: 100%;
-  margin: 0 auto;
+.row img {
+  width: 30%;
+}
+
+.row h2 {
+  font-size: 1em;
+  padding: 5px 0 10px 0;
 }
 
 footer {
