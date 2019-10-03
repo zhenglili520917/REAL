@@ -59,18 +59,18 @@
   padding: 5px 5px 10px 0;
 }
 
-.container {
+.shop {
   text-align: left;
   padding: 0 50px;
 }
 
-.container h2 {
+.shop h2 {
   color: #0f4876;
   font-size: 30px;
   font-weight: 500;
 }
 
-.container p {
+.shop p {
   font-size: 20px;
 }
 
