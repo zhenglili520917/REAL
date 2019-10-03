@@ -24,18 +24,20 @@
 }
 
 .row img {
-  width: 30%;
+  width: 100%;
+  padding: 15px 0;
 }
 
 .row h2 {
   font-size: 1em;
-  padding: 5px 0 10px 0;
+  padding: 5px 5px 10px 0;
 }
 
 footer {
-  background-color: #da8484;
+  background-color: #0f4876;
   color: #fff;
   margin-top: 100px;
+  text-align: center;
 }
 
 footer #copy {
@@ -44,11 +46,10 @@ footer #copy {
   text-align: center;
 }
 
-.bot {
+.bot a {
+  color: white;
   text-decoration: none;
   float: center;
-  padding: 20px 0;
-  text-align: center;
-  color: #0f4876;
+  padding: 5px 15px;
 }
 /*# sourceMappingURL=style.css.map */
