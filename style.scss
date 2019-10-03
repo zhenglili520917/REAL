@@ -28,6 +28,29 @@ $color-main: #0f4876;
     }
 }
 
+// 品牌故事
+.ping {
+    text-align: center;
+    padding: 50px 80px;
+    font-family: 新細明體;
+    h2 {
+        font-size: 30px;
+        color: #0f4876;
+        font-weight: 500;
+    }
+    p {
+        font-size: 18px;
+        font-family: 新細明體;
+    }
+    h3 {
+        font-size: 18px;
+    }
+    img {
+        width: 50%;
+        padding: 15px 0;
+    }
+}
+
 
 // 產品區塊
 .row img {

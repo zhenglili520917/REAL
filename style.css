@@ -23,6 +23,32 @@
   color: #0f4876;
 }
 
+.ping {
+  text-align: center;
+  padding: 50px 80px;
+  font-family: 新細明體;
+}
+
+.ping h2 {
+  font-size: 30px;
+  color: #0f4876;
+  font-weight: 500;
+}
+
+.ping p {
+  font-size: 18px;
+  font-family: 新細明體;
+}
+
+.ping h3 {
+  font-size: 18px;
+}
+
+.ping img {
+  width: 50%;
+  padding: 15px 0;
+}
+
 .row img {
   width: 100%;
   padding: 15px 0;
