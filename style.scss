@@ -62,7 +62,19 @@ $color-main: #0f4876;
         padding: 5px 5px 10px 0;
 }
 
-
+// 據點
+.container {
+    text-align: left;
+    padding: 0 50px;
+    h2 {
+        color:#0f4876;
+        font-size: 30px;
+        font-weight: 500;
+    }
+    p {
+        font-size: 20px;
+    }
+}
 
 // footer
 footer {
